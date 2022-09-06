@@ -1,0 +1,20 @@
+.addItem {
+    height: 40px;
+}
+
+.addItem input {
+    width: 250px;
+    padding: 2px;
+    height: 29px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.addItem button {
+    height: 35px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}

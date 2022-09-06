@@ -1,0 +1,12 @@
+.disabled {
+    text-decoration: line-through;
+}
+
+.seen {
+    text-decoration: none;
+}
+
+.task {
+    display: flex;
+    justify-content: flex-start;
+}
