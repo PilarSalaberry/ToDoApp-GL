@@ -1,5 +1,6 @@
 .disabled {
     text-decoration: line-through;
+    color: #a7a7a7;
 }
 
 .seen {
